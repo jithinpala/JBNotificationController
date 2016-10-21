@@ -12,6 +12,7 @@
 		92A2322B1DBA1D7A004C51BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92A232291DBA1D7A004C51BF /* Main.storyboard */; };
 		92A2322D1DBA1D7A004C51BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92A2322C1DBA1D7A004C51BF /* Assets.xcassets */; };
 		92A232301DBA1D7A004C51BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92A2322E1DBA1D7A004C51BF /* LaunchScreen.storyboard */; };
+		92A232381DBA261D004C51BF /* JBNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A232371DBA261D004C51BF /* JBNotificationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		92A2322C1DBA1D7A004C51BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92A2322F1DBA1D7A004C51BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92A232311DBA1D7A004C51BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92A232371DBA261D004C51BF /* JBNotificationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JBNotificationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				92A232251DBA1D7A004C51BF /* AppDelegate.swift */,
 				92A232271DBA1D7A004C51BF /* ViewController.swift */,
+				92A232371DBA261D004C51BF /* JBNotificationView.swift */,
 				92A232291DBA1D7A004C51BF /* Main.storyboard */,
 				92A2322C1DBA1D7A004C51BF /* Assets.xcassets */,
 				92A2322E1DBA1D7A004C51BF /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				92A232281DBA1D7A004C51BF /* ViewController.swift in Sources */,
 				92A232261DBA1D7A004C51BF /* AppDelegate.swift in Sources */,
+				92A232381DBA261D004C51BF /* JBNotificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
